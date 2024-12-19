@@ -6,8 +6,7 @@
 
 ## Challenge information
 ```
-Points: 100
-Tags: picoCTF 2019, General Skills
+Tags: picoCTF 2019, General Skills, Easy
 Author: SANJAY C/DANNY T
  
 Description:
