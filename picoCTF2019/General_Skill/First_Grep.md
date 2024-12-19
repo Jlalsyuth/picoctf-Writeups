@@ -21,11 +21,11 @@ Challenge link: [https://play.picoctf.org/practice/challenge/85](https://play.pi
 
 ## Solution
 
-This is basically a very easy tutorial for `grep`
+Ini pada dasarnya adalah tutorial yang sangat mudah untuk fungsi `grep`
 ```bash
-┌──(kali㉿kali)-[/mnt/…/picoCTF/picoCTF_2019/General_Skills/First_Grep]
-└─$ grep picoCTF file
-picoCTF{<REDACTED>}
+┌──(kali㉿kali)-[~/Downloads]
+└─$ cat file | grep picoCTF
+picoCTF{grep_is_good_to_find_things_f77e0797}}
 ```
 
 ## References
