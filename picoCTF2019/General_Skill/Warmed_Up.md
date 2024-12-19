@@ -22,7 +22,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/58](https://play.pi
 
 ### Convert in Python
 
-We can use an interactive Python session to do the work for us with the [str function](https://docs.python.org/3/library/functions.html#func-str) and the fact that Python understands [hexadecimal numbers](https://en.wikipedia.org/wiki/Hexadecimal)
+Kita dapat menggunakan interactive Python session untuk melakukan pekerjaan untuk kita dengan fungsi [str function](https://docs.python.org/3/library/functions.html#func-str) dan fakta bahwa Python memahami bilangan heksadesimal [hexadecimal numbers](https://en.wikipedia.org/wiki/Hexadecimal)
 ```bash
 ┌──(kali㉿kali)-[/Downloads/Warmed_Up]
 └─$ python
