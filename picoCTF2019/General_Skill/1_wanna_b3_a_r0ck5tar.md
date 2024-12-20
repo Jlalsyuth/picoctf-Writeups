@@ -124,6 +124,7 @@ Jadi Saya langsung saja menggunakan ASCII to Text Converter[Duplichecker.com](ht
 
 ![image](https://github.com/user-attachments/assets/3b750970-db02-4df6-b415-32f35e3c9579)
 
+Jadi Flagnya: picoCTF{BONJOVI}
 
 ## References
 
