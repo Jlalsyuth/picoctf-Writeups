@@ -52,9 +52,8 @@ Terlalu Banyak output. Mungkin bisa menggunakan `grep` untuk mendapatkan flag
 picoCTF{digital_plumb3r_5ea1fbd7}
 ```
 
-And there we have the flag.
+dan itu adalah flagnya
 
-For additional information, please see the references below.
 
 ## References
 
