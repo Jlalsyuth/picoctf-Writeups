@@ -24,7 +24,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/58](https://play.pi
 
 Kita dapat menggunakan interactive Python session untuk melakukan pekerjaan untuk kita dengan fungsi [str function](https://docs.python.org/3/library/functions.html#func-str) dan fakta bahwa Python memahami bilangan heksadesimal [hexadecimal numbers](https://en.wikipedia.org/wiki/Hexadecimal)
 ```bash
-┌──(kali㉿kali)-[/Downloads/Warmed_Up]
+┌──(kali㉿kali)-[~/Downloads/Warmed_Up]
 └─$ python
 Python 3.11.9 (main, Apr 10 2024, 13:16:36) [GCC 13.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
