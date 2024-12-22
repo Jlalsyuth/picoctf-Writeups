@@ -23,7 +23,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/34](https://play.pi
 
 ini menggunakan tutorial basic dari fungsi `nc` 
 ```bash
-┌──(kali㉿kali)-[/Download]
+┌──(kali㉿kali)-[~/Download]
 └─$ nc jupiter.challenges.picoctf.org 64287 
 You're on your way to becoming the net cat master
 picoCTF{nEtCat_Mast3ry_284be8f7}
