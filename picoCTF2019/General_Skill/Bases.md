@@ -39,10 +39,10 @@ print(f"picoCTF{{{decoded}}}")
 
 Then we make sure the script is executable and run it to get the flag
 ```bash
-┌──(kali㉿kali)-[/Downloads/Bases]
+┌──(kali㉿kali)-[~/Downloads/Bases]
 └─$ chmod +x decode.py     
 
-┌──(kali㉿kali)-[/Downloads/Bases]
+┌──(kali㉿kali)-[~/Downloads/Bases]
 └─$ ./decode.py       
 picoCTF{l3arn_th3_r0p35}
 ```
