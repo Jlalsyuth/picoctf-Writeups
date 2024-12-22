@@ -22,7 +22,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/22](https://play.pi
 
 Kita dapat mencari jawabannya secara manual dengan [ASCII table](https://www.ascii-code.com/) atau menggunakan fungsi dari python [chr function](https://docs.python.org/3/library/functions.html#chr)
 ```bash
-┌──(kali㉿kali)-[/mnt/…/picoCTF/picoCTF_2019/General_Skills/Lets_Warm_Up]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ python                
 Python 3.11.9 (main, Apr 10 2024, 13:20:36) [GCC 13.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
