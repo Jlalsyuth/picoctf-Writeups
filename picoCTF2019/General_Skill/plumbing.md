@@ -24,7 +24,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/48](https://play.pi
 
 Saya mencoba menghubungkan ke server dengan `nc`
 ```bash
-┌──(kali㉿kali)-[/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ nc jupiter.challenges.picoctf.org 4427
 Not a flag either
 Again, I really don't think this is a flag
