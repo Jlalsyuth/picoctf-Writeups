@@ -22,7 +22,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/82](https://play.pi
 
 Mulai dari mengecek isi dari file `lyrics.txt`
 ```bash
-┌──(kali㉿kali)-[/mDownloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ cat lyrics.txt 
 Rocknroll is right              
 Silence is wrong                
