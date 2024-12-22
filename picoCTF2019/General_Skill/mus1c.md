@@ -21,7 +21,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/15](https://play.pi
 
 Dibawah ini adalah isi dari konten yang diberikan
 ```bash
-┌──(kali㉿kali)-[/mnt/…/picoCTF/picoCTF_2019/General_Skills/Mus1c]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ cat lyrics.txt              
 Pico's a CTFFFFFFF
 my mind is waitin
